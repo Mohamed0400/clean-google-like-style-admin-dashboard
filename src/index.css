@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+html[dir='rtl'] body {
+  font-family: 'Segoe UI', Tahoma, 'Noto Sans Arabic', system-ui, sans-serif;
+}
+
+html[dir='rtl'] .font-mono {
+  font-family: 'Cascadia Mono', 'Segoe UI', Tahoma, monospace;
+}
